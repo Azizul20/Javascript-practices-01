@@ -20,4 +20,4 @@ else if (result >= 80 && result <= 100) {
 }
 else {
   console.log('Invalid Input');
-}
+} 
